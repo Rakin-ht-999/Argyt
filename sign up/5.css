@@ -1,0 +1,23 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+main-div{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 100px 0;
+}
+main-div-in {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 250px 0;
+}
+table {
+    margin: 0 auto;
+    color: white
+}
+.main-div h1{
+    margin-top: 50px;
+}

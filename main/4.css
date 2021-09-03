@@ -1,0 +1,71 @@
+* {
+    font-family:'Roboto', sans-serif;
+}
+a{
+    text-decoration: none;
+    color: red;
+}
+.full-wrapper{
+    width: 100%;
+    clear: both;
+}
+.wraper{
+    width: 1100px;
+    margin: 0 auto ;
+}
+.logo img{
+    width: 100px;
+    padding: 10px 0;
+    float: left;
+}
+.menu{
+    float: left;
+    width: 800px;
+    text-align: center;
+    margin-top: 15px;
+}
+.menu a{
+    color: #000;
+    padding: 10px;
+    font-size:24px;
+}
+.reg{
+    float: left;
+    width: 200px;
+    margin-top: 15px;
+}
+.reg a{
+    color: black;
+    padding: 10px;
+    font-size: 24px;
+}
+.banner-img{
+    background-image: url(img/backpara.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 100px 0;
+}
+.banner-text{
+    text-align: center;
+    color: white;
+}
+.service-item{
+    width: 350px;
+    float: left;
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px 0;
+    border: 1px solid black;
+    margin-left: 60px;
+    background-image: url(img/008.jpg);
+}
+.service-item p{
+    display: inline-block;
+}
+.Rak-div h1{
+    text-align: center;
+}
+marquee{
+    font-size: 25px;
+}

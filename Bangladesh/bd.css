@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+.banner-img{
+    background-image: url(img/0011.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 100px 0;
+    height: 500px;
+}
+.banner-text{
+    text-align: center;
+}
+.my{
+    text-align: center;
+}
